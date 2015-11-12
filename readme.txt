@@ -1,4 +1,8 @@
 abcd
 def
 ggg
-ttt
+<<<<<<< HEAD
+fdsjflajf
+=======
+fdsjflajf
+>>>>>>> dev
